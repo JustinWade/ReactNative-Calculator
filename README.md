@@ -4,11 +4,11 @@ Calculator App built using React Native
 
 # To Build
 
-'npm install'
+`npm install`
 
 # To Run Expo
 
-'expo start'
+`expo start`
 
 ## Project Specifications
 
